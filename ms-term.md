@@ -5,6 +5,8 @@ date: 2019-02-02 16:38:41
 tags: Service
 categories: Yuzulia-MisSocial
 ---
+# Yuzulia-MisSocial 利用規約
+
 Yuzulia-MisSocial(以後、当サービス)をお選びいただき、ありがとうございます。
 
 この規約は当サービスをご利用いただくための内容を掲載しています。
