@@ -2,7 +2,7 @@
 
 {% for post in site.pages %}
 {% if post.title %}
-- [{{ post.title }}](.{{ post.id }})
+- [{{ post.title }}](.{{ post.url }})
 
 {% endif %}
 {% endfor %}
