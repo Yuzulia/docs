@@ -37,5 +37,3 @@ ConoHaカードのお買い求めはこちらから。 [https://conoha.shop/](ht
 Kyashを使って支援することもできます。
 
 Kyash IDは```yuzuryo61```です。以下のQRを使って送金することもできます。
-
-{% img https://resonator.yuzulia.xyz/y-mks/files/44e1329a-92c6-4fec-82c0-7d10fadc6ee4.3ccc6939a7176a2a514a94b717a240082e11833208f025d84b97f8d3667a75ec %}
